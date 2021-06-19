@@ -1,0 +1,22 @@
+Titulo: 
+Flappy Corona
+
+Breve descrição: 
+O Flappy Corona é um jogo onde o personagem principal deve desviar dos vírus. 
+
+
+Descrição completa: 
+ O objetivo do jogo é fazer com que o personagem principal desvie dos vírus e consiga pegar a vacina.  
+ O personagem principal é um humano usando máscara de proteção, que pode voar e passar entre os vírus que aparecem em lugares aleatórios.
+ Alguns itens de proteção aparecerão na tela, a cada item que o humano coletar ele ganhará 1 ponto. Os itens são máscara, álcool em gel e torneira para lavar as mãos. Após serem coletados eles aparecerão na lista abaixo da tela do jogo. 
+ Cada vez que o personagem conseguir passar pelos dois vírus maiores o jogador ganha 1 ponto.  
+ Há também um vírus menor que também circula pelo ar aleatoriamente tentando infectar o personagem. 
+ Caso o personagem encoste em um dos três vírus, ele será infectado e perderá o jogo. 
+ Conforme o jogo for evoluindo a velocidade dos vírus maiores aumentará dificultando o nível do jogo. 
+ Para vencer, o personagem deve encostar na vacina que aparecerá em algum momento do jogo. Ao tomar a vacina o humano ficará imunizado e vencerá o jogo. 
+
+Link YouTube:
+https://www.youtube.com/watch?v=OeYc5QT-EmY
+
+link GitHub:
+https://github.com/LaisST/Fatec_IDS_Hackathon
